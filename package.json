@@ -20,7 +20,6 @@
   ],
   "keywords": [],
   "dependencies": {
-    "rc": "^0.5.5"
   },
   "devDependencies": {
     "ava": "^0.0.4"
